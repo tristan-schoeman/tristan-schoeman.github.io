@@ -1,18 +1,24 @@
+# Hi, I'm Tristan 👋
 
-# Personal Site (GitHub Pages)
+Mechanical engineer with a focus on **controls, structural dynamics, and prototyping**.  
+I love building at the intersection of **mechanics and intelligence** — from MATLAB simulations and control algorithms to hands-on projects with computer vision and audio ML.
 
-This repository powers `https://YOUR-USERNAME.github.io/` — a simple portfolio with About, Projects, Resume, and Contact pages.
+- 🎯 Current focus: Robotics, mechatronics, and applied AI for physical systems  
+- 🛠️ Side projects:  
+  - [CatGuard](https://github.com/tristan-schoeman/catguard) — Humane cat-scratch deterrent using vision + audio  
+- 🚴 Outside work: Gravel cycling, triathlon training, and tinkering with endurance tech
 
-## How to use
-1. Create a repo named `YOUR-USERNAME.github.io` and upload these files.
-2. Commit to `main`. GitHub Pages will deploy automatically.
-3. Edit `_config.yml` to set your real GitHub and LinkedIn links.
-4. Replace placeholders in `projects.md` with your real project URLs.
-5. Drop your PDF resume at `assets/Tristan_Schoeman_Resume.pdf`.
+---
 
-## Local preview (optional)
-Install Ruby + Bundler + Jekyll, then:
-```bash
-bundle install
-bundle exec jekyll serve
-```
+## 🔧 Tech & Tools
+- **Languages**: Python, MATLAB, some C++  
+- **Domains**: Controls & system identification, structural/FEA awareness, prototyping  
+- **Libraries**: OpenCV, NumPy, PyTorch (learning), audio DSP basics  
+- **Hardware**: Raspberry Pi, Arduino, sensors, mechatronics integration  
+
+---
+
+## 🌐 Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/tristan-schoeman/) 
+- 🖥️ [Personal Site](https://tristan-schoeman.github.io/)  
+- 📬 Reach me at: tris.schoeman@gmail.com
