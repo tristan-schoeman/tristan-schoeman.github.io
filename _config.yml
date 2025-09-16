@@ -6,6 +6,6 @@ url: ""  # will be set by GitHub Pages
 theme: jekyll-theme-cayman
 google_analytics: 
 social_links:
-  linkedin: https://www.linkedin.com/in/your-linkedin/
-  github: https://github.com/your-username
+  linkedin: https://www.linkedin.com/in/tristan-schoeman/
+  github: https://github.com/tristan-schoeman
 permalink: pretty
