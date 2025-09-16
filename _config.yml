@@ -1,0 +1,11 @@
+
+title: Tristan Schoeman
+tagline: Mechanical Engineer • Controls • Vision & Audio ML (aspiring)
+description: Portfolio, projects, and contact.
+url: ""  # will be set by GitHub Pages
+theme: jekyll-theme-cayman
+google_analytics: 
+social_links:
+  linkedin: https://www.linkedin.com/in/your-linkedin/
+  github: https://github.com/your-username
+permalink: pretty
